@@ -1,1 +1,5 @@
-assets/js/script.js
+assets/js/
+.staticrypt.json
+.gitignore
+alpha.html
+old_alpha.html
